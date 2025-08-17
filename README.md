@@ -1,7 +1,4 @@
-
-<p align="center">
 # 🌿 ivy's luau table serializer 🌿
-</p>
 
 <p align="center">
   <em>make your tables ✨pretty✨ • readable • git-diff friendly</em>
