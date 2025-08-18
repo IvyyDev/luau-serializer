@@ -3,9 +3,21 @@
 <p align="center">
   <em>make your tables ✨pretty✨ • readable • git-diff friendly</em>
 </p>
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
-![luau](https://img.shields.io/badge/lang-luau-ff69b4)
-![stars](https://img.shields.io/github/stars/IvyyDev/luau-signal?style=social)
+
+<p align="center">
+  <a href="https://github.com/IvyyDev/luau-serializer/stargazers">
+    <img alt="stars" src="https://img.shields.io/github/stars/IvyyDev/luau-serializer?color=6ade9f&style=flat-square">
+  </a>
+  <a href="https://github.com/IvyyDev/luau-serializer/actions">
+    <img alt="ci" src="https://img.shields.io/badge/ci-green?style=flat-square">
+  </a>
+  <a href="https://github.com/IvyyDev">
+    <img alt="author" src="https://img.shields.io/badge/made%20by-ivy-9b6adb?style=flat-square">
+  </a>
+  <a href="https://discord.gg/YZ9wBpvdnx">
+    <img alt="discord" src="https://img.shields.io/badge/chat-discord-6a82de?style=flat-square">
+  </a>
+</p>
 
 ---
 
