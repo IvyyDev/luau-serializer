@@ -164,8 +164,7 @@ function Serializer.serialize(value: any, opts: Options?): string
 	local header = "-- https://github.com/IvyyDev/luau-serializer"
 	local tblSrc = serializeInner(o, seen, value, "$", 0)
 	return header .. "\n\n"
-		.. "local tbl = " .. tblSrc .. "\n\n"
-		.. "return tbl"
+		.. "local tbl = " .. tblSrc
 end
 
 return Serializer
