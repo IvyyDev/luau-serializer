@@ -3,12 +3,9 @@
 <p align="center">
   <em>make your tables ✨pretty✨ • readable • git-diff friendly</em>
 </p>
-
-<p align="center">
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 ![luau](https://img.shields.io/badge/lang-luau-ff69b4)
 ![stars](https://img.shields.io/github/stars/IvyyDev/luau-signal?style=social)
-</p>
 
 ---
 
